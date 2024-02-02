@@ -8,7 +8,7 @@ public class CoreApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CoreApplication.class, args);
-		//4장부터
+		//5장부터
 	}
 
 }
